@@ -11,6 +11,12 @@ Portfolio - wybrane projekty - użyte języki programowania to: Python, C++ (SFM
      Napisane w Python, w bibliotece turtle
      
      ![Pong](https://github.com/Dadoheh/portfolio/blob/main/pics/pong.jpg)
+ 
+ 4. Projekt Arkanoid
+ 
+     Napisane w C++, SFML
+     
+     ![Arkanoid](https://github.com/Dadoheh/portfolio/blob/main/pics/arkanoid_sfml.jpg)
      
  3. Prosty serwer skryptowy - program obliczający zaprzyjaźnienie dwóch liczb. Wykorzystane języki to Python, .bat, html
      
