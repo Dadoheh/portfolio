@@ -1,24 +1,25 @@
 Portfolio - wybrane projekty - użyte języki programowania to: Python, C++ (SFML)
 
-1.  Projekt Tic-Tac-Toe 
-     
-     Napisane w Python, w bibliotece turtle
-     
-     ![TicTacToe](https://github.com/Dadoheh/portfolio/blob/main/pics/kolko%20i%20krzyzyk.jpg)
-     
- 2. Projekt Pong 
-   
-     Napisane w Python, w bibliotece turtle
-     
-     ![Pong](https://github.com/Dadoheh/portfolio/blob/main/pics/pong.jpg)
- 
- 4. Projekt Arkanoid
+1.  Projekt Arkanoid
  
      Napisane w C++, SFML
      
      ![Arkanoid](https://github.com/Dadoheh/portfolio/blob/main/pics/arkanoid_sfml.jpg)
      
- 3. Prosty serwer skryptowy - program obliczający zaprzyjaźnienie dwóch liczb. Wykorzystane języki to Python, .bat, html
+2. Projekt Pong 
+   
+     Napisane w Python, w bibliotece turtle
+     
+     ![Pong](https://github.com/Dadoheh/portfolio/blob/main/pics/pong.jpg)
+     
+3.  Projekt Tic-Tac-Toe 
+     
+     Napisane w Python, w bibliotece turtle
+     
+     ![TicTacToe](https://github.com/Dadoheh/portfolio/blob/main/pics/kolko%20i%20krzyzyk.jpg)
+     
+
+ 4. Prosty serwer skryptowy - program obliczający zaprzyjaźnienie dwóch liczb. Wykorzystane języki to Python, .bat, html
      
      Menu skryptu 
      
